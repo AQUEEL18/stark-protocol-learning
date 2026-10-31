@@ -35,3 +35,9 @@ ros2 topic list
 ros2 topic echo /my_topic
 ros2 topic hz /my_topic
 ```
+## Progress log
+
+| Week | Topic | Status |
+|---|---|---|
+| 1 | Nodes, topics, publisher and subscriber | Done |
+| 2 | Parameters, services, launch files | In progress |

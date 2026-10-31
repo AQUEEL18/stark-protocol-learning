@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
             'my_node = my_first_pkg.my_node:main',
             'subscriber_node = my_first_pkg.subscriber_node:main',
+            'param_node = my_first_pkg.param_node:main',
         ],
     },
 )

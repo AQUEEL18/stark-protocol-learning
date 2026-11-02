@@ -23,6 +23,8 @@ setup(
             'my_node = my_first_pkg.my_node:main',
             'subscriber_node = my_first_pkg.subscriber_node:main',
             'param_node = my_first_pkg.param_node:main',
+            'add_server = my_first_pkg.add_server:main',
+            'add_client = my_first_pkg.add_client:main',
         ],
     },
 )

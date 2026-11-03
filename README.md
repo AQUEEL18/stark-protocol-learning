@@ -40,4 +40,10 @@ ros2 topic hz /my_topic
 | Week | Topic | Status |
 |---|---|---|
 | 1 | Nodes, topics, publisher and subscriber | Done |
-| 2 | Parameters, services, launch files | In progress |
+| 2 | Parameters, services, launch files | Done |
+
+## Week 2 progress
+- Parameters node: `ros2 param set` changes a running node
+- Services: `add_server` and `add_client` (5 + 7 = 12)
+- Launch file: `ros2 launch my_first_pkg pub_sub_launch.py` starts both nodes
+
